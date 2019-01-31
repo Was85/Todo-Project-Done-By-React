@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+font-family: Arial, Helvetica, sans-serif ;
+line-height: 1.4;
+}
+
+
+a{
+  color: red ;
+  text-decoration: none
+  
+}
+
+.submitBtn{
+  background: #9D9C62 ;
+  border: none;
+  display: inline-block;
+  cursor: pointer;
+  padding: 12px 10px;
+  color: white;
+}
+
+.submitBtn:hover {
+  background: red ;
+  color: black;
+}
+
+.links{
+  color:white;
+  text-Decoration :'underline';
+
+}
+.links:hover{
+  color: red;
+}
